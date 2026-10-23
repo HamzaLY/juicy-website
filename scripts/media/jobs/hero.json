@@ -1,0 +1,18 @@
+[
+  {
+    "id": "hero-full",
+    "model": "klein",
+    "seed": 1207,
+    "width": 2048,
+    "height": 1152,
+    "prompt": "Cinematic editorial beverage photograph. One tall clear highball glass filled to the brim with freshly squeezed orange juice and clear ice cubes stands slightly right of center on a sun-washed pale travertine counter, the whole glass fully in frame with generous space above it. Heavy cold condensation droplets bead and run down the outside of the glass. Two halved oranges and a few fresh mint leaves rest on the counter beside it, low and small. The background is one continuous warm peach plaster wall washed with soft late-morning window light and gentle leaf shadows, softly out of focus edge to edge. Warm golden sunlight from the left, glowing backlight through the juice, photorealistic, shallow depth of field, premium advertising quality."
+  },
+  {
+    "id": "hero-ice",
+    "model": "klein",
+    "seed": 1207,
+    "width": 2048,
+    "height": 1152,
+    "prompt": "Cinematic editorial beverage photograph. One tall empty clear highball glass holding only clear ice cubes stands slightly right of center on a sun-washed pale travertine counter, the whole glass fully in frame with generous space above it. Light frost and cold condensation droplets on the outside of the glass. Two halved oranges and a few fresh mint leaves rest on the counter beside it, low and small. The background is one continuous warm peach plaster wall washed with soft late-morning window light and gentle leaf shadows, softly out of focus edge to edge. Warm golden sunlight from the left, photorealistic, shallow depth of field, premium advertising quality."
+  }
+]

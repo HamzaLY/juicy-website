@@ -1,0 +1,11 @@
+[
+  {
+    "id": "hero-pour",
+    "model": "wan",
+    "image": "review/raw/hero-ice.jpg",
+    "duration": 5,
+    "steps": 6,
+    "seed": 2207,
+    "prompt": "One continuous shot, no cuts, locked-off camera. A smooth stream of fresh orange juice pours straight down from above into the tall glass of ice, and the glass fills steadily from the bottom up until the juice reaches the brim. Ice cubes lift and turn gently as the juice rises, tiny bubbles swirl, condensation droplets slowly run down the outside of the glass, soft sunlight and leaf shadows drift across the peach wall. The pour stops and the shot ends at rest: a tall glass full of orange juice and ice, halved oranges and mint on the counter, warm morning light."
+  }
+]

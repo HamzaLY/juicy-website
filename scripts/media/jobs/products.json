@@ -1,0 +1,122 @@
+[
+  {
+    "id": "product-sunrise-press",
+    "model": "klein",
+    "seed": 4100,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with freshly squeezed orange juice with clear ice, garnished with an orange wheel on the rim, standing dead center on a seamless pale apricot paper backdrop that curves into a matching pale apricot tabletop. Halved oranges rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-melon-hour",
+    "model": "klein",
+    "seed": 4101,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with bright pink watermelon juice with clear ice, garnished with a lime wheel on the rim, standing dead center on a seamless soft blush pink paper backdrop that curves into a matching soft blush pink tabletop. A small watermelon wedge and a halved lime rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-green-rush",
+    "model": "klein",
+    "seed": 4102,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with vivid green apple, cucumber and spinach juice with clear ice, garnished with a thin cucumber ribbon inside the glass, standing dead center on a seamless pale celery green paper backdrop that curves into a matching pale celery green tabletop. A green apple half, cucumber slices and a knob of ginger rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-carrot-gold",
+    "model": "klein",
+    "seed": 4103,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with golden carrot, orange and ginger juice with clear ice, garnished with an orange slice on the rim, standing dead center on a seamless soft marigold paper backdrop that curves into a matching soft marigold tabletop. Two small carrots with leafy tops and an orange half rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-mango-monsoon",
+    "model": "klein",
+    "seed": 4104,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with thick creamy mango and banana smoothie, garnished with a few mango cubes on top, standing dead center on a seamless warm butter yellow paper backdrop that curves into a matching warm butter yellow tabletop. A halved ripe mango and a banana rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-berry-banana-bloom",
+    "model": "klein",
+    "seed": 4105,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with thick creamy pink strawberry banana smoothie, garnished with a whole strawberry on the rim, standing dead center on a seamless soft rose pink paper backdrop that curves into a matching soft rose pink tabletop. Fresh strawberries and a banana rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-lagoon-drift",
+    "model": "klein",
+    "seed": 4106,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with thick creamy turquoise blue pineapple coconut smoothie, garnished with a pineapple wedge on the rim, standing dead center on a seamless pale aqua paper backdrop that curves into a matching pale aqua tabletop. Pineapple chunks and a halved coconut rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-passion-pine",
+    "model": "klein",
+    "seed": 4107,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with golden pineapple and passionfruit juice with black passionfruit seeds swirling through it and clear ice, garnished with a pineapple leaf, standing dead center on a seamless light honey yellow paper backdrop that curves into a matching light honey yellow tabletop. A halved passionfruit and pineapple chunks rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-guava-wave",
+    "model": "klein",
+    "seed": 4108,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with coral pink guava and pineapple juice with clear ice, garnished with a lime wheel on the rim, standing dead center on a seamless soft coral pink paper backdrop that curves into a matching soft coral pink tabletop. Halved pink guavas and a lime rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-tropic-parade",
+    "model": "klein",
+    "seed": 4109,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with sunset orange tropical mango, pineapple and passionfruit juice with clear ice, garnished with a pineapple wedge on the rim, standing dead center on a seamless warm tangerine paper backdrop that curves into a matching warm tangerine tabletop. Mango, pineapple and a halved passionfruit rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-mint-condition",
+    "model": "klein",
+    "seed": 4110,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with pale sparkling lemonade with fresh mint leaves, bubbles and clear ice, garnished with a lemon wheel and a mint sprig, standing dead center on a seamless pale lemon chiffon paper backdrop that curves into a matching pale lemon chiffon tabletop. Halved lemons and mint sprigs rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-cucumber-cooler",
+    "model": "klein",
+    "seed": 4111,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with pale green cucumber, lime and mint juice with clear ice, garnished with a cucumber slice and mint sprig, standing dead center on a seamless soft mint green paper backdrop that curves into a matching soft mint green tabletop. Cucumber slices and a halved lime rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-hibiscus-hush",
+    "model": "klein",
+    "seed": 4112,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with deep magenta iced hibiscus tea with raspberries and clear ice, garnished with a lemon wheel on the rim, standing dead center on a seamless dusty magenta pink paper backdrop that curves into a matching dusty magenta pink tabletop. Fresh raspberries and dried hibiscus flowers rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-blood-orange-ember",
+    "model": "klein",
+    "seed": 4113,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with ruby red blood orange juice with clear ice, garnished with a rosemary sprig and a blood orange wheel, standing dead center on a seamless deep wine red paper backdrop that curves into a matching deep wine red tabletop. Halved blood oranges and fresh ginger rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  },
+  {
+    "id": "product-pomegranate-frost",
+    "model": "klein",
+    "seed": 4114,
+    "width": 1024,
+    "height": 1024,
+    "prompt": "Studio beverage advertising photograph. One tall clear straight-sided highball glass filled right to the top with jewel red pomegranate and apple juice with clear ice, garnished with a sprinkle of pomegranate seeds on top, standing dead center on a seamless deep berry red paper backdrop that curves into a matching deep berry red tabletop. A split pomegranate and a green apple slice rest low beside the glass. The glass fills the middle sixty percent of the frame height with generous empty space above and below it. Glossy cold condensation droplets on the glass. Soft directional daylight from the upper left, one crisp natural shadow falling to the right, clean minimal set, color-blocked editorial style, photorealistic, sharp focus."
+  }
+]

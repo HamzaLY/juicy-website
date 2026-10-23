@@ -1,0 +1,42 @@
+[
+  {
+    "id": "story-counter",
+    "model": "klein",
+    "seed": 5201,
+    "width": 1024,
+    "height": 1280,
+    "prompt": "Editorial interior photograph of a bright modern juice bar counter in early morning light, no people. A pale stone counter holds a wooden board with freshly cut oranges, lemons and limes, a stainless steel citrus press, and three tall clear glasses filled to the brim with orange, pink and green juice. Behind the counter, deep forest green tiled wall and a few hanging plants, softly out of focus. Warm sunlight streaming in from the left, glossy fruit, photorealistic, shallow depth of field, premium magazine quality."
+  },
+  {
+    "id": "seasonal-blood-orange",
+    "model": "klein",
+    "seed": 5202,
+    "width": 1280,
+    "height": 1024,
+    "prompt": "Moody editorial beverage photograph. One tall clear highball glass filled to the brim with ruby red blood orange juice and clear ice, garnished with a rosemary sprig and a blood orange wheel, standing slightly right of center on a dark wine red stone surface against a deep wine red wall. Halved blood oranges with crimson flesh, a knob of fresh ginger and rosemary sprigs arranged low around it. Single warm spotlight from the upper left, rich glowing backlight through the juice, glossy condensation, photorealistic, premium advertising quality."
+  },
+  {
+    "id": "fresh-flatlay",
+    "model": "klein",
+    "seed": 5203,
+    "width": 1536,
+    "height": 864,
+    "prompt": "Overhead flat lay food photograph on a warm pale peach surface. Freshly cut fruit arranged in loose diagonal bands with generous space between them: halved oranges, watermelon triangles, strawberries cut in half, mango cheeks scored into cubes, pineapple wedges, lime wheels, lemon halves and fresh mint sprigs, with a few drops of juice glistening. Soft even daylight, gentle shadows, vibrant natural colors, photorealistic, crisp detail."
+  },
+  {
+    "id": "promo-flight",
+    "model": "klein",
+    "seed": 5204,
+    "width": 1536,
+    "height": 864,
+    "prompt": "Studio beverage advertising photograph of three small clear tumbler glasses standing in a neat row on a creamy off-white tabletop against a seamless creamy off-white backdrop: the first filled with orange juice, the second with bright pink watermelon juice, the third with pale lemon mint lemonade with mint leaves, all filled right to the top with clear ice and cold condensation droplets. A halved orange, a small watermelon wedge and a lemon half rest low in front. Soft daylight from the upper left, crisp natural shadows, color-blocked minimal editorial style, photorealistic."
+  },
+  {
+    "id": "citrus-splash",
+    "model": "klein",
+    "seed": 5205,
+    "width": 1536,
+    "height": 864,
+    "prompt": "High speed beverage photograph against a seamless bright mango yellow backdrop. A sliced orange wheel and a lime wheel tumble through the air above a tall clear glass of orange juice, a crown of juice splash and glistening droplets frozen mid air, fresh mint leaves floating. Crisp studio flash lighting, vibrant saturated color, photorealistic, sharp detail."
+  }
+]
